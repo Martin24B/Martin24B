@@ -70,7 +70,7 @@ Soy desarrollador de software Full Stack enfocado en tecnologías web, con espec
 
 * **Tecnicatura en Desarrollo de Aplicaciones Informáticas (TUDAI)**
   * *Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)*
-  * 📅 2023-03 - Actualidad
+  * 📅 2024-03 - Actualidad
 * **Diplomatura en Desarrollador Web Full Stack**
   * *Clúster Tecnológico Tandil (CEPIT)*
   * 📅 2024-06 - 2026-06
