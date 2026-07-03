@@ -85,4 +85,8 @@ Soy desarrollador de software Full Stack enfocado en tecnologías web, con espec
 
 ## 📈 Mis Estadísticas de GitHub
 
+
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Martin24B&theme=dark)](https://git.io/streak-stats)
+</p>
+
