@@ -85,6 +85,4 @@ Soy desarrollador de software Full Stack enfocado en tecnologías web, con espec
 
 ## 📈 Mis Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Martin24B&show_icons=true&theme=radical&include_all_commits=true" alt="Estadísticas de GitHub" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Martin24B&theme=dark)](https://git.io/streak-stats)
