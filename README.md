@@ -1,6 +1,8 @@
 # ¡Hola! Soy Martín 👋
 
-Soy desarrollador de software Full Stack enfocado en tecnologías web, con especialización en el ecosistema de React para el frontend y NestJS para la arquitectura del backend. Además de mi stack principal, cuento con sólida experiencia trabajando con Java, Spring Boot y bases de datos relacionales como PostgreSQL y MySQL.
+Full Stack Developer especializado en TypeScript, con experiencia en el diseño y desarrollo de aplicaciones web utilizando React.js Vite y Tailwind CSS para el Front-end, junto con Nest.js y PostgreSQL para la arquitectura de Back-end e implementación de bases de datos.
+
+Trabajo de manera eficiente bajo metodologías ágiles como Scrum y Kanban, lo que me permite adaptarme rápido a los cambios, coordinar bien con mis compañeros y cumplir con las metas de cada sprint.
 
 * 💼 Abierto a oportunidades laborales y proyectos freelance.
 * 🚀 Interesado en colaborar en proyectos de código abierto.
